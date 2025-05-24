@@ -41,53 +41,9 @@ portfolio/
 │ └── index.js
 └── README.md
 
-yaml
-Copy
-Edit
-
----
-
-## 🚧 How to Run Locally
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/portfolio.git
-Navigate into the folder
-
-bash
-Copy
-Edit
-cd portfolio
-Install dependencies
-
-bash
-Copy
-Edit
-npm install
-Start the development server
-
-bash
-Copy
-Edit
-npm start
-🌐 Live Demo
-🔗 Visit My Portfolio
-
 📬 Contact
 If you'd like to collaborate or have any questions, feel free to connect:
 
-📧 Email: yourname@example.com
+📧 Email: gangawanepriyanka412@gmail.com
 
-💼 LinkedIn: YourProfile
-
-📄 License
-This project is licensed under the MIT License - feel free to use and customize!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like it customized with **your actual links, name, or profile image**!
+💼 LinkedIn:https://www.linkedin.com/in/priyanka-gangawane-1a3158272/
